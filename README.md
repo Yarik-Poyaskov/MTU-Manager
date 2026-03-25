@@ -24,7 +24,7 @@
 
 ## 🖥️ Интерфейс
 
-https://github.com/Yarik-Poyaskov/MTU-Manager/blob/main/Morda.PNG
+![Image alt](https://github.com/Yarik-Poyaskov/MTU-Manager/blob/main/Morda.PNG)
 ```
 ┌─────────────────────────────────────────────────┐
 │  MTU Manager                                    │
